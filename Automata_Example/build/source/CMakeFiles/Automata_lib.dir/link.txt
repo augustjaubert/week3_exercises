@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libAutomata_lib.a CMakeFiles/Automata_lib.dir/automaton.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libAutomata_lib.a
