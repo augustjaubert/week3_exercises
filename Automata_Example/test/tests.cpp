@@ -80,12 +80,3 @@ TEST_CASE("no accepted state vector value found in alphabet")
     Automaton testing(A, M, S);
     CHECK_THROWS_AS(testing.Read("ab"), std::invalid_argument);
 }
-
-
-
-
-/*
--
-
-
-*/
